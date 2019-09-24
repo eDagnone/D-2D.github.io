@@ -1,0 +1,2 @@
+javac ZombieGame.java
+java ZombieGame
