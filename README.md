@@ -1,6 +1,7 @@
 _This Game was inspired by ID Software's Doom from 1993_
 
 __How to run:__
+
 Just run the java file called ZombieGame.java. You can do this with an IDE like Eclipse, or open it through command prompt. 
 
 __Premise:__
