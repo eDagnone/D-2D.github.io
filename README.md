@@ -1,10 +1,10 @@
-_This Game was inspired by ID Software's Doom from 1993_
-
 __How to run:__
 
 Just run the java file called ZombieGame.java. You can do this with an IDE like Eclipse, or open it through command prompt. 
 
 __Premise:__
+
+_This Game was inspired by ID Software's Doom from 1993_
 
 You find yourself surrounded by charging Pinkies (as Doomguy often does), and must slay them until they slay you. 
 
